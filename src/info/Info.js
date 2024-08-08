@@ -100,31 +100,31 @@ export const info = {
     portfolio: [ 
         {
             title: "My Portfolio",
-            live: "project live link",  
+            live: "https://karthikeyan-my-portfolio.vercel.app",  
             source: "https://github.com/karthikeyanCoder",  
             image: mock11
         },
         {
             title: "Project ",
-            live: "project live link",
+            live: "https://karthikeyan-my-portfolio.vercel.app",
             source: "https://github.com/karthikeyanCoder",
             image:  mock5
         },
         {
             title: "Project ",
-            live: "project live link",
+            live: "https://karthikeyan-my-portfolio.vercel.app",
             source: "https://github.com/karthikeyanCoder",
             image:  mock5
         },
         {
             title: "Project ",
-            live: "project live link",
+            live: "https://karthikeyan-my-portfolio.vercel.app",
             source: "https://github.com/karthikeyanCoder",
             image:  mock5
         },
         {
             title: "Project ",
-            live: "project live link",
+            live: "https://karthikeyan-my-portfolio.vercel.app",
             source: "https://github.com/karthikeyanCoder",
             image:  mock5
         }
